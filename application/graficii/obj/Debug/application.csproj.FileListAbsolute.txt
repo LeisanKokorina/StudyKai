@@ -1,0 +1,11 @@
+E:\с#\graficii\graficii\obj\Debug\application.csprojResolveAssemblyReference.cache
+E:\с#\graficii\graficii\obj\Debug\application.FormAbout.resources
+E:\с#\graficii\graficii\obj\Debug\application.FormSystemODU.resources
+E:\с#\graficii\graficii\obj\Debug\application.FormTable.resources
+E:\с#\graficii\graficii\obj\Debug\application.MainForm.resources
+E:\с#\graficii\graficii\obj\Debug\application.csproj.GenerateResource.Cache
+E:\с#\graficii\graficii\bin\Debug\application.exe.config
+E:\с#\graficii\graficii\bin\Debug\application.exe
+E:\с#\graficii\graficii\bin\Debug\application.pdb
+E:\с#\graficii\graficii\obj\Debug\application.exe
+E:\с#\graficii\graficii\obj\Debug\application.pdb

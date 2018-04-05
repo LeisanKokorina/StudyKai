@@ -1,0 +1,109 @@
+C:\Users\stud\Documents\SharpDevelop Projects\graficii\graficii\bin\Debug\graficii.exe.config
+C:\Users\stud\Documents\SharpDevelop Projects\graficii\graficii\bin\Debug\graficii.exe
+C:\Users\stud\Documents\SharpDevelop Projects\graficii\graficii\bin\Debug\graficii.pdb
+C:\Users\stud\Documents\SharpDevelop Projects\graficii\graficii\obj\Debug\graficii.csprojResolveAssemblyReference.cache
+C:\Users\stud\Documents\SharpDevelop Projects\graficii\graficii\obj\Debug\graficii.exe
+C:\Users\stud\Documents\SharpDevelop Projects\graficii\graficii\obj\Debug\graficii.pdb
+C:\Users\stud\Documents\SharpDevelop Projects\graficii\graficii\obj\Debug\graficii.MainForm.resources
+C:\Users\stud\Documents\SharpDevelop Projects\graficii\graficii\obj\Debug\graficii.csproj.GenerateResource.Cache
+E:\Лейсан\graficii\graficii\bin\Debug\graficii.exe.config
+E:\Лейсан\graficii\graficii\bin\Debug\graficii.exe
+E:\Лейсан\graficii\graficii\bin\Debug\graficii.pdb
+E:\Лейсан\graficii\graficii\obj\Debug\graficii.csprojResolveAssemblyReference.cache
+E:\Лейсан\graficii\graficii\obj\Debug\graficii.MainForm.resources
+E:\Лейсан\graficii\graficii\obj\Debug\graficii.csproj.GenerateResource.Cache
+E:\Лейсан\graficii\graficii\obj\Debug\graficii.exe
+E:\Лейсан\graficii\graficii\obj\Debug\graficii.pdb
+C:\Users\A1\Desktop\graficii\graficii\bin\Debug\graficii.exe.config
+C:\Users\A1\Desktop\graficii\graficii\bin\Debug\graficii.exe
+C:\Users\A1\Desktop\graficii\graficii\bin\Debug\graficii.pdb
+C:\Users\A1\Desktop\graficii\graficii\obj\Debug\graficii.csprojResolveAssemblyReference.cache
+C:\Users\A1\Desktop\graficii\graficii\obj\Debug\graficii.MainForm.resources
+C:\Users\A1\Desktop\graficii\graficii\obj\Debug\graficii.csproj.GenerateResource.Cache
+C:\Users\A1\Desktop\graficii\graficii\obj\Debug\graficii.exe
+C:\Users\A1\Desktop\graficii\graficii\obj\Debug\graficii.pdb
+F:\Лейсан\graficii\graficii\bin\Debug\graficii.exe.config
+F:\Лейсан\graficii\graficii\bin\Debug\graficii.exe
+F:\Лейсан\graficii\graficii\bin\Debug\graficii.pdb
+F:\Лейсан\graficii\graficii\obj\Debug\graficii.csprojResolveAssemblyReference.cache
+F:\Лейсан\graficii\graficii\obj\Debug\graficii.MainForm.resources
+F:\Лейсан\graficii\graficii\obj\Debug\graficii.csproj.GenerateResource.Cache
+F:\Лейсан\graficii\graficii\obj\Debug\graficii.exe
+F:\Лейсан\graficii\graficii\obj\Debug\graficii.pdb
+E:\Лейсан\graficii\graficii\obj\Debug\graficii.FormTable.resources
+C:\Users\stud\Desktop\лейсан\Лейсан\graficii\graficii\bin\Debug\graficii.exe.config
+C:\Users\stud\Desktop\лейсан\Лейсан\graficii\graficii\bin\Debug\graficii.exe
+C:\Users\stud\Desktop\лейсан\Лейсан\graficii\graficii\bin\Debug\graficii.pdb
+C:\Users\stud\Desktop\лейсан\Лейсан\graficii\graficii\obj\Debug\graficii.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\лейсан\Лейсан\graficii\graficii\obj\Debug\graficii.FormTable.resources
+C:\Users\stud\Desktop\лейсан\Лейсан\graficii\graficii\obj\Debug\graficii.MainForm.resources
+C:\Users\stud\Desktop\лейсан\Лейсан\graficii\graficii\obj\Debug\graficii.csproj.GenerateResource.Cache
+C:\Users\stud\Desktop\лейсан\Лейсан\graficii\graficii\obj\Debug\graficii.exe
+C:\Users\stud\Desktop\лейсан\Лейсан\graficii\graficii\obj\Debug\graficii.pdb
+C:\Users\stud\Desktop\лейсан\Лейсан\graficii\graficii\obj\Debug\graficii.FormAbout.resources
+C:\Users\stud\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.exe.config
+C:\Users\stud\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.exe
+C:\Users\stud\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.pdb
+C:\Users\stud\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormAbout.resources
+C:\Users\stud\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormTable.resources
+C:\Users\stud\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.MainForm.resources
+C:\Users\stud\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.csproj.GenerateResource.Cache
+C:\Users\stud\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.exe
+C:\Users\stud\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.pdb
+E:\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.exe.config
+E:\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.exe
+E:\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.pdb
+E:\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.csprojResolveAssemblyReference.cache
+E:\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormAbout.resources
+E:\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormTable.resources
+E:\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.MainForm.resources
+E:\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.csproj.GenerateResource.Cache
+E:\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.exe
+E:\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.pdb
+C:\Users\A1\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.exe.config
+C:\Users\A1\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.exe
+C:\Users\A1\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.pdb
+C:\Users\A1\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.csprojResolveAssemblyReference.cache
+C:\Users\A1\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormAbout.resources
+C:\Users\A1\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormTable.resources
+C:\Users\A1\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.MainForm.resources
+C:\Users\A1\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.csproj.GenerateResource.Cache
+C:\Users\A1\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.exe
+C:\Users\A1\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.pdb
+C:\Users\A1\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormSystemODU.resources
+C:\Users\stud\Desktop\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormSystemODU.resources
+E:\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormSystemODU.resources
+E:\леейс\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.exe.config
+E:\леейс\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.exe
+E:\леейс\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\bin\Debug\graficii.pdb
+E:\леейс\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.csprojResolveAssemblyReference.cache
+E:\леейс\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormAbout.resources
+E:\леейс\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormSystemODU.resources
+E:\леейс\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.FormTable.resources
+E:\леейс\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.MainForm.resources
+E:\леейс\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.csproj.GenerateResource.Cache
+E:\леейс\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.exe
+E:\леейс\лейсан !!!!!!!!!!!!!\Лейсан\graficii\graficii\obj\Debug\graficii.pdb
+E:\Study\КАИ\диплом\на диск\на диск\graficii\graficii\bin\Debug\graficii.exe.config
+E:\Study\КАИ\диплом\на диск\на диск\graficii\graficii\bin\Debug\graficii.exe
+E:\Study\КАИ\диплом\на диск\на диск\graficii\graficii\bin\Debug\graficii.pdb
+E:\Study\КАИ\диплом\на диск\на диск\graficii\graficii\obj\Debug\graficii.csprojResolveAssemblyReference.cache
+E:\Study\КАИ\диплом\на диск\на диск\graficii\graficii\obj\Debug\graficii.FormAbout.resources
+E:\Study\КАИ\диплом\на диск\на диск\graficii\graficii\obj\Debug\graficii.FormSystemODU.resources
+E:\Study\КАИ\диплом\на диск\на диск\graficii\graficii\obj\Debug\graficii.FormTable.resources
+E:\Study\КАИ\диплом\на диск\на диск\graficii\graficii\obj\Debug\graficii.MainForm.resources
+E:\Study\КАИ\диплом\на диск\на диск\graficii\graficii\obj\Debug\graficii.csproj.GenerateResource.Cache
+E:\Study\КАИ\диплом\на диск\на диск\graficii\graficii\obj\Debug\graficii.exe
+E:\Study\КАИ\диплом\на диск\на диск\graficii\graficii\obj\Debug\graficii.pdb
+E:\с#\graficii\graficii\bin\Debug\graficii.exe.config
+E:\с#\graficii\graficii\bin\Debug\graficii.exe
+E:\с#\graficii\graficii\bin\Debug\graficii.pdb
+E:\с#\graficii\graficii\obj\Debug\graficii.csprojResolveAssemblyReference.cache
+E:\с#\graficii\graficii\obj\Debug\graficii.FormAbout.resources
+E:\с#\graficii\graficii\obj\Debug\graficii.FormSystemODU.resources
+E:\с#\graficii\graficii\obj\Debug\graficii.FormTable.resources
+E:\с#\graficii\graficii\obj\Debug\graficii.MainForm.resources
+E:\с#\graficii\graficii\obj\Debug\graficii.csproj.GenerateResource.Cache
+E:\с#\graficii\graficii\obj\Debug\graficii.exe
+E:\с#\graficii\graficii\obj\Debug\graficii.pdb
